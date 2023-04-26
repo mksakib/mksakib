@@ -1,8 +1,8 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<h2 align="center">As-salamu Alaykum 👋, I'm Md Khalid Sakib</h1>
+<h1 align="center">As-salamu Alaykum 👋 <br> I'm Md Khalid Sakib</h1>
 
-<h3 align="center">WAKE UP | LEARN | PARTICIPATE | SLEEP < repeat </h2>
+<h2 align="center">WAKE UP | LEARN | PARTICIPATE | SLEEP < repeat </h2>
 
 - 💪🏼 Manual Software Tester.
 - 📚 Enthusiast to Learn and Participate.
